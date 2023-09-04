@@ -1,0 +1,7 @@
+C:\Users\a2787\Documents\Kode\TemperaturIfElseLoop\VisualStudio\TemperaturIfElseWhile\bin\Debug\TemperaturIfElseWhile.exe.config
+C:\Users\a2787\Documents\Kode\TemperaturIfElseLoop\VisualStudio\TemperaturIfElseWhile\bin\Debug\TemperaturIfElseWhile.exe
+C:\Users\a2787\Documents\Kode\TemperaturIfElseLoop\VisualStudio\TemperaturIfElseWhile\bin\Debug\TemperaturIfElseWhile.pdb
+C:\Users\a2787\Documents\Kode\TemperaturIfElseLoop\VisualStudio\TemperaturIfElseWhile\obj\Debug\TemperaturIfElseWhile.csproj.AssemblyReference.cache
+C:\Users\a2787\Documents\Kode\TemperaturIfElseLoop\VisualStudio\TemperaturIfElseWhile\obj\Debug\TemperaturIfElseWhile.csproj.CoreCompileInputs.cache
+C:\Users\a2787\Documents\Kode\TemperaturIfElseLoop\VisualStudio\TemperaturIfElseWhile\obj\Debug\TemperaturIfElseWhile.exe
+C:\Users\a2787\Documents\Kode\TemperaturIfElseLoop\VisualStudio\TemperaturIfElseWhile\obj\Debug\TemperaturIfElseWhile.pdb
